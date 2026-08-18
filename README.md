@@ -12,11 +12,11 @@ A construir uma base sólida em programação e resolução de problemas. Atualm
 ### 🚀 Projetos Académicos
 
 #### 🎓 1º Ano
-* 🧩 **[Projeto LI1 - Laboratórios de Informática I](#)** | `Haskell`
+*  **[Projeto LI1 - Laboratórios de Informática I](#)** | `Haskell`
   * Projeto prático desenvolvido em Haskell no âmbito do paradigma funcional.
   * *Breve descrição do projeto (ex: desenvolvimento de um jogo em Gloss / lógica do programa).*
 
-* 💻 **[Projeto LI2 - Laboratórios de Informática II](#)** | `C`
+*  **[Projeto LI2 - Laboratórios de Informática II](#)** | `C`
   * Projeto prático desenvolvido em C focado em algoritmos e programação imperativa.
   * *Breve descrição do projeto (ex: jogo de tabuleiro / aplicação de terminal).*
 
