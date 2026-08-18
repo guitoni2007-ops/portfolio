@@ -5,23 +5,23 @@
 ---
 
 ### 📌 Visão Geral
-A construir uma base sólida em programação e resolução de problemas. Atualmente a explorar algoritmos e estruturas de dados em ambiente Linux.
+A construir uma base sólida em programação e resolução de problemas. Atualmente a explorar algoritmos e estruturas de dados através de C e Haskell em ambiente Linux.
 
 ---
 
 ### 🚀 Projetos Académicos
 
 #### 🎓 1º Ano
-*  **[Projeto LI1 - Laboratórios de Informática I](#)** | `Haskell`
+* 🧩 **[Projeto LI1 - Laboratórios de Informática I](#)** | `Haskell`
   * Projeto prático desenvolvido em Haskell no âmbito do paradigma funcional.
-  * *Breve descrição do projeto (ex: desenvolvimento de um jogo em Gloss / lógica do programa).*
+  * *(Breve descrição a adicionar assim que tiveres o documento do projeto)*
 
-*  **[Projeto LI2 - Laboratórios de Informática II](#)** | `C`
-  * Projeto prático desenvolvido em C focado em algoritmos e programação imperativa.
-  * *Breve descrição do projeto (ex: jogo de tabuleiro / aplicação de terminal).*
+* 💻 **[Motor de Jogos de Paciência](https://github.com/guitoni2007-ops/li2-paciencias-c)** | `C`
+  * Interpretador de DSL em C para carregamento e execução de múltiplas variantes de jogos de Paciência no terminal.
+  * Desenvolvido na unidade curricular de Laboratórios de Informática II, com foco em arquitetura modular, testes unitários (`CUnit`) e métricas de qualidade (`pmccabe`).
 
 #### 🎓 2º Ano
-* ⏳ *Projetos a adicionar ao longo do ano letivo.*
+* ⏳ *Projetos a adicionar ao longo do próximo ano letivo.*
 
 ---
 
