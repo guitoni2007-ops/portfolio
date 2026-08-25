@@ -34,7 +34,7 @@ A construir uma base sólida em programação e resolução de problemas. Atualm
 
 ### 🎓 Foco Académico & Objetivos
 - [x] Programação Imperativa e Algoritmos (**C**)
-- [x] Paradigma Funcional (**Haskell**)
+- [x] Programação Funcional (**Haskell**)
 - [ ] Programação Orientada a Objetos (**Java** / **C++**)
 - [ ] Engenharia de Software & Bases de Dados
 
