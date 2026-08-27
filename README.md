@@ -12,7 +12,7 @@ A construir uma base sólida em programação e resolução de problemas. Atualm
 ### 🚀 Projetos Académicos
 
 #### 🎓 1º Ano
-* **LI1: [Worms](#)** | `Haskell`
+* **LI1: [Worms](https://github.com/guitoni2007-ops/NOME-DO-REPOSITO)** | `Haskell`
   * Jogo estilo Worms desenvolvido em Haskell no âmbito do paradigma da programação funcional.
   * Interface gráfica desenvolvida com `Gloss` e documentação completa de funções via `Haddock`.
 
