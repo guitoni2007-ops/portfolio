@@ -26,9 +26,11 @@ A construir uma base sólida em programação e resolução de problemas. Atualm
 ---
 
 ### 🛠️ Competências Técnicas
+
 * **Linguagens:** `C` · `Haskell`
 * **Controlo de Versão:** `Git` · `GitHub` · `GitLab`
-* **Ambiente & Ferramentas:** `Linux (Ubuntu)` · `VS Code` · `Terminal / Bash`
+* **Ambiente & Ferramentas:** `Linux (Ubuntu)` · `VS Code` · `Terminal / Bash` · `Make` · `Cabal` · `GCC` · `GHC / GHCi`
+* **Bibliotecas & Testes:** `Gloss` · `CUnit` · `Haddock` · `pmccabe`
 
 ---
 
