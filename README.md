@@ -12,7 +12,7 @@ A construir uma base sólida em programação e resolução de problemas. Atualm
 ### 🚀 Projetos Académicos
 
 #### 🎓 1º Ano
-* **LI1: [Nome do Projeto](#)** | `Haskell`
+* **LI1: [Worms](#)** | `Haskell`
   * Projeto prático desenvolvido em Haskell no âmbito do paradigma funcional.
   * *(Breve descrição a adicionar assim que tiveres o documento do projeto)*
 
